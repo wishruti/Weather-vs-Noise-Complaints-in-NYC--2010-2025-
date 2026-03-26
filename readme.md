@@ -1,5 +1,4 @@
 # 📘 IA626 Final Project: Weather vs Noise Complaints in NYC (2010–2025)
-##### Prepared by: Bishruti Khakurel and Thiru Vanitha Rani Veluchamy
 ---
 ##  Overview
 This project investigates the relationship between **weather conditions** (temperature, wind speed, precipitation) and **noise complaint patterns** in **NYC**. The purpose is to understand how external environmental factors influence the volume of noise-related 311 service requests in a specific urban area.
